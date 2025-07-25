@@ -2,10 +2,9 @@
 
 <h3 align="center">I'm a passionate Computer Engineering Student</h3>
 
-
+- 🔭 I’m currently studying at University of Guilan
 
 - 🌱 I’m currently learning **Computer Networking and Advanced Python Programing**
-
 
 - 📫 How to reach me **husseiny.1382@gmail.com**
 
