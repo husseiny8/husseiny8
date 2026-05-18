@@ -23,7 +23,7 @@
 
 
 
-<h3 align="center">Tools:</h3>
+<h3 align="center">Technical Skills</h3>
 <p align="center">  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,django,java,cpp,linux,vim,docker,git,github,html,css,mysql" />
