@@ -19,8 +19,8 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-<h3 align="center">husseiny.1382@gmail.com</h3>
 
+                                                          husseiny.1382@gmail.com
 
 
 <h3 align="center">Technical Skills</h3>
