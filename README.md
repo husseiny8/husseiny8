@@ -21,7 +21,7 @@
   </a>
 </p>
 
-                                                        husseiny.1382@gmail.com
+                                                          husseiny.1382@gmail.com
 
 
 <h3 align="center">Technical Skills</h3>
