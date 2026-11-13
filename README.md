@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <h2 align="center"><a href="https://husseiny8.pythonanywhere.com/">🌐 My Website</a></h2>
+  <h2 align="center"><a href="https://husseiny8.github.io/">🌐 My Website</a></h2>
 </p>
 
 <h2 align="center">👨‍💻 About Me</h2>
