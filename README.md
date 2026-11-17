@@ -46,9 +46,6 @@ I'm a dedicated and enthusiastic **Computer Engineering student at the Universit
   <a href="mailto:husseiny.1382@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://husseiny8.pythonanywhere.com/">
-    <img src="https://img.shields.io/badge/Website-0E75B6?style=for-the-badge&logo=python&logoColor=white" alt="Website" />
-  </a>
 </p>
 
 <p align="center">
